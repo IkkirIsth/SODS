@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1322263298 source:c:\users\tenoch\desktop\sosd\sosd\main.cpp
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<fstream>
+	<iostream>
+
+1323936829 source:c:\users\tenoch\desktop\sosd\main.cpp
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<fstream>
+	<iostream>
+
